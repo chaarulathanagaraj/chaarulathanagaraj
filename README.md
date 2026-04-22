@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║   Not just writing code — engineering systems that think for themselves. ║
+║   Engineering systems that think for themselves. ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -16,14 +16,14 @@
 ```
 
 ```
-  N  A  G  A  R  A  J    ·    F u l l  S t a c k  &  A I  S y s t e m s
+   F u l l  S t a c k  &  A I  S y s t e m s
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chaarulathanagaraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaarulathanagaraj)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201781%20·%20650%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/chaarulatha20-06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chaarulathanagaraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaarulatha-nagaraj-589843291/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201781%20·%20650%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/chaaru20_06)
 [![CodeChef](https://img.shields.io/badge/CodeChef-276%20solved%20·%2021%20contests-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/chaarulatha20)
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![CGPA](https://img.shields.io/badge/CGPA-8.77%20·%20B.Tech%20IT%20·%202027-6C63FF?style=flat-square)](https://www.citchennai.edu.in)
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ffdbf5bb-3d35-4470-9d32-89a36ae266b3/public_url)
+[![CGPA](https://img.shields.io/badge/CGPA-8.77%20·%20B.Tech%20IT%20·%202027-6C63FF?style=flat-square)](https://drive.google.com/file/d/1HnahQ-oaolA0uIEv3LzJXuFPieYzsplb/view?usp=sharing)
 
 </div>
 
@@ -38,8 +38,6 @@ college     : Chennai Institute of Technology  (graduating April 2027)
 focus       : Multi-agent AI  ·  real-time infrastructure  ·  cloud cost automation
 status      : [ OPEN ] — actively seeking opportunities
 contact     : chaarulathanagaraj@gmail.com  ·  +91 7200647037
-edge        : I don't just build features — I build systems with observability,
-              safety guardrails, and the intelligence to fix themselves.
 ```
 
 ---
@@ -76,7 +74,7 @@ edge        : I don't just build features — I build systems with observability
 
 ## `> ls ./projects/ --detailed`
 
-### [01] ProcWatch AI — Intelligent Process Automation & Remediation Platform
+### [01] Autotasker — Intelligent Process Automation & Remediation Platform
 > `Java` · `Spring Boot` · `WebSocket` · `REST API` · `Multi-Agent AI` · `MCP`
 
 ```
@@ -151,7 +149,7 @@ edge        : I don't just build features — I build systems with observability
 |------------|---------------------|----------------------------------------------|
 | LeetCode   | `chaarulatha20-06`  | Rating **1781**  ·  **650+ problems** solved |
 | CodeChef   | `chaarulatha20`     | **21 contests**  ·  **276 problems** solved  |
-| HackerRank | —                   | **3-Star Badge** in Java                     |
+| HackerRank |                     | **3-Star Badge** in Java                     |
 
 ---
 
@@ -160,9 +158,7 @@ edge        : I don't just build features — I build systems with observability
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   The best engineers don't just ship features —                              ║
-║   they build systems robust enough to outlive their own involvement.         ║
-║   That's the standard I hold my work to.                                     ║
+║ Turning repetitive work into intelligent automation.                                  ║
 ║                                                                              ║
 ║           [ chaarulathanagaraj@gmail.com ]  ·  [ Chennai, IN ]              ║
 ║                                                                              ║
