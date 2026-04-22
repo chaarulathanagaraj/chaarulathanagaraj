@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║   Engineering systems that think for themselves. ║
+║             Engineering systems that think for themselves.               ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -16,7 +16,7 @@
 ```
 
 ```
-   F u l l  S t a c k  &  A I  S y s t e m s
+                        F u l l  S t a c k  &  A I  S y s t e m s
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chaarulathanagaraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaarulatha-nagaraj-589843291/)
@@ -114,7 +114,6 @@ contact     : chaarulathanagaraj@gmail.com  ·  +91 7200647037
   "frameworks"  : ["React", "Node.js", "Express", "Laravel", "Tailwind CSS", "Bootstrap"],
   "databases"   : ["SQL", "MongoDB", "PostgreSQL", "ChromaDB"],
   "ai_infra"    : ["MCP", "OpenAI SDK", "CrewAI", "LangGraph", "AutoGen"],
-  "cloud"       : ["AWS Lambda", "EC2", "EventBridge", "SNS", "DynamoDB", "ASG"],
   "tools"       : ["Git/GitHub", "Postman", "PhpMyAdmin", "VS Code"]
 }
 ```
@@ -149,7 +148,7 @@ contact     : chaarulathanagaraj@gmail.com  ·  +91 7200647037
 |------------|---------------------|----------------------------------------------|
 | LeetCode   | `chaarulatha20-06`  | Rating **1781**  ·  **650+ problems** solved |
 | CodeChef   | `chaarulatha20`     | **21 contests**  ·  **276 problems** solved  |
-| HackerRank |                     | **3-Star Badge** in Java                     |
+| HackerRank | `Chaarulathan_it1`  | **3-Star Badge** in Java                     |
 
 ---
 
@@ -158,13 +157,13 @@ contact     : chaarulathanagaraj@gmail.com  ·  +91 7200647037
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║ Turning repetitive work into intelligent automation.                                  ║
+║           Turning repetitive work into intelligent automation.               ║
 ║                                                                              ║
-║           [ chaarulathanagaraj@gmail.com ]  ·  [ Chennai, IN ]              ║
+║           [ chaarulathanagaraj@gmail.com ]  ·  [ Chennai, IN ]               ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-*Chennai Institute of Technology · B.Tech Information Technology · Class of 2027*
+*Chennai Institute of Technology · B.Tech Information Technology · 2027*
 
 </div>
