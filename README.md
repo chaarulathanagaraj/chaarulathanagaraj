@@ -146,7 +146,7 @@ contact     : chaarulathanagaraj@gmail.com  ·  +91 7200647037
 
 | Platform   | Handle              | Stats                                        |
 |------------|---------------------|----------------------------------------------|
-| LeetCode   | `chaaru20_06`  | Rating **1781**  ·  **650+ problems** solved |
+| LeetCode   | `chaaru20_06`       | Rating **1781**  ·  **650+ problems** solved |
 | CodeChef   | `chaarulatha20`     | **21 contests**  ·  **276 problems** solved  |
 | HackerRank | `Chaarulathan_it1`  | **3-Star Badge** in Java                     |
 
